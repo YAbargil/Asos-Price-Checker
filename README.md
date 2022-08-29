@@ -5,6 +5,6 @@
 
 2.Create 'Constants.py'file and add your api key that brought you by botfather.
 
-3.Run your code and message your bot with an asos product.
+3.Run code and message your bot with an asos product.
 
 4.Enjoy!
